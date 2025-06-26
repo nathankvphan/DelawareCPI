@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	SP	F2QY27	Alcohol oxidase 1 OS=Komagataella phaffii (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1) OX=981350 GN=AOX1 PE=1 SV=1	Komagataella phaffii (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1)	663	3585	100.0	100.0	0.0
+2	SP	P04842	Alcohol oxidase 1 OS=Komagataella phaffii (strain GS115 / ATCC 20864) OX=644223 GN=AOX1 PE=1 SV=2	Komagataella phaffii (strain GS115 / ATCC 20864)	663	3585	100.0	100.0	0.0
+3	SP	F2R038	Alcohol oxidase 2 OS=Komagataella phaffii (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1) OX=981350 GN=AOX2 PE=2 SV=1	Komagataella phaffii (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1)	663	3521	97.3	99.1	0.0
+4	SP	C4R702	Alcohol oxidase 2 OS=Komagataella phaffii (strain GS115 / ATCC 20864) OX=644223 GN=AOX2 PE=3 SV=1	Komagataella phaffii (strain GS115 / ATCC 20864)	663	3521	97.3	99.1	0.0
+5	TR	W6MF75	alcohol oxidase OS=Kuraishia capsulata CBS 1993 OX=1382522 GN=KUCA_T00000315001 PE=3 SV=1	Kuraishia capsulata CBS 1993	663	3045	84.0	90.8	0.0
+6	TR	A0A1B7SJY0	alcohol oxidase OS=Ogataea polymorpha OX=460523 GN=OGATHE_006181 PE=3 SV=1	Ogataea polymorpha	664	2784	76.1	86.0	0.0
+7	SP	P04841	Alcohol oxidase OS=Pichia angusta OX=870730 GN=MOX PE=1 SV=1	Pichia angusta	664	2784	76.1	86.0	0.0
+8	TR	A0A9P8PCG4	alcohol oxidase OS=Ogataea philodendri OX=1378263 GN=OGAPHI_001558 PE=3 SV=1	Ogataea philodendri	663	2772	75.9	85.7	0.0
+9	TR	W1QCJ3	alcohol oxidase OS=Ogataea parapolymorpha (strain ATCC 26012 / BCRC 20466 / JCM 22074 / NRRL Y-7560 / DL-1) OX=871575 GN=HPODL_03886 PE=3 SV=1	Ogataea parapolymorpha (strain ATCC 26012 / BCRC 20466 / JCM 22074 / NRRL Y-7560 / DL-1)	664	2767	75.2	85.8	0.0
+10	TR	A0A1E4SZH3	alcohol oxidase OS=[Candida] arabinofermentans NRRL YB-2248 OX=983967 GN=CANARDRAFT_199901 PE=3 SV=1	[Candida] arabinofermentans NRRL YB-2248	664	2730	74.4	85.4	0.0
+11	TR	A0A642VDA0	alcohol oxidase OS=Trichomonascus ciferrii OX=44093 GN=TRICI_000495 PE=3 SV=1	Trichomonascus ciferrii	663	2730	74.6	85.3	0.0
+12	TR	A0A1E4SXY7	alcohol oxidase OS=[Candida] arabinofermentans NRRL YB-2248 OX=983967 GN=CANARDRAFT_201106 PE=3 SV=1	[Candida] arabinofermentans NRRL YB-2248	664	2721	73.8	84.2	0.0
+13	TR	A0A1E4T6V9	alcohol oxidase OS=[Candida] arabinofermentans NRRL YB-2248 OX=983967 GN=CANARDRAFT_26908 PE=3 SV=1	[Candida] arabinofermentans NRRL YB-2248	665	2684	72.2	84.4	0.0
+14	SP	Q00922	Alcohol oxidase OS=Candida boidinii OX=5477 GN=AOD1 PE=1 SV=1	Candida boidinii	663	2645	73.0	84.2	0.0
+15	TR	A0A3N4KBK2	Alcohol oxidase OS=Morchella conica CCBAS932 OX=1392247 GN=P167DRAFT_578835 PE=3 SV=1	Morchella conica CCBAS932	663	2590	72.1	82.2	0.0
+16	TR	A0A1Q8RSU2	Alcohol oxidase 1 OS=Colletotrichum chlorophyti OX=708187 GN=CCHL11_09318 PE=3 SV=1	Colletotrichum chlorophyti	669	2570	72.2	83.4	0.0
+17	TR	A0A2I2G1Y8	Putativeoxidoreductase OS=Aspergillus steynii IBT 23096 OX=1392250 GN=P170DRAFT_387855 PE=3 SV=1	Aspergillus steynii IBT 23096	666	2569	72.0	82.3	0.0
+18	TR	A0A8H3J0U6	Alternative oxidase, mitochondrial OS=Imshaugia aleurites OX=172621 GN=AOX1 PE=3 SV=1	Imshaugia aleurites	664	2553	71.4	82.0	0.0
+19	TR	A0A4R8R015	Alcohol oxidase 1 OS=Colletotrichum trifolii OX=5466 GN=AOX1-1 PE=3 SV=1	Colletotrichum trifolii	669	2550	71.6	83.2	0.0
+20	TR	N4VAA4	Alcohol oxidase 1 OS=Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422) OX=1213857 GN=AOX1-0 PE=3 SV=1	Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422)	669	2549	71.6	83.2	0.0
+21	TR	A0AAD9E7I6	Alcohol oxidase OS=Colletotrichum chrysophilum OX=1836956 GN=CCHR01_19100 PE=3 SV=1	Colletotrichum chrysophilum	670	2546	71.5	83.4	0.0
+22	TR	L2FC28	Alcohol oxidase OS=Colletotrichum fructicola (strain Nara gc5) OX=1213859 GN=AOX1-1 PE=3 SV=1	Colletotrichum fructicola (strain Nara gc5)	670	2546	71.5	83.4	0.0
+23	TR	A0A8H3WG02	Alcohol oxidase OS=Colletotrichum asianum OX=702518 GN=GQ607_007067 PE=3 SV=1	Colletotrichum asianum	670	2544	71.5	83.4	0.0
+24	TR	T0KZZ1	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Colletotrichum gloeosporioides (strain Cg-14) OX=1237896 GN=CGLO_02068 PE=3 SV=1	Colletotrichum gloeosporioides (strain Cg-14)	670	2544	71.5	83.2	0.0
+25	TR	A0A8H6K841	Alcohol oxidase 1 OS=Colletotrichum plurivorum OX=2175906 GN=CPLU01_09584 PE=3 SV=1	Colletotrichum plurivorum	669	2543	71.5	83.1	0.0
+26	TR	A0A8H4CBC1	Alcohol oxidase 1 OS=Colletotrichum gloeosporioides OX=474922 GN=GCG54_00009549 PE=3 SV=1	Colletotrichum gloeosporioides	670	2543	71.3	83.4	0.0
+27	TR	A0A9W4RJ20	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Colletotrichum noveboracense OX=2664923 GN=CGXH109_LOCUS10461 PE=3 SV=1	Colletotrichum noveboracense	670	2542	71.2	83.4	0.0
+28	TR	A0A8H6JR90	Alcohol oxidase 1 OS=Colletotrichum musicola OX=2175873 GN=CMUS01_12017 PE=3 SV=1	Colletotrichum musicola	669	2541	71.5	82.9	0.0
+29	TR	A0A6G1GKB3	GMC oxidoreductase OS=Aulographum hederae CBS 113979 OX=1176131 GN=K402DRAFT_342943 PE=3 SV=1	Aulographum hederae CBS 113979	665	2538	70.6	81.4	0.0
+30	TR	A0A9P4HYN1	GMC oxidoreductase OS=Saccharata proteae CBS 121410 OX=1314787 GN=K490DRAFT_72890 PE=3 SV=1	Saccharata proteae CBS 121410	665	2537	70.6	82.0	0.0
+31	TR	A0A0U5FTQ5	Putative Alcohol oxidase OS=Aspergillus calidoustus OX=454130 GN=ASPCAL01541 PE=3 SV=1	Aspergillus calidoustus	666	2536	70.6	81.4	0.0
+32	TR	A0A9W8RLZ1	Alternative oxidase, mitochondrial OS=Fusarium torreyae OX=1237075 GN=AOX1 PE=3 SV=1	Fusarium torreyae	677	2536	70.9	83.0	0.0
+33	TR	A0A1Y2VR85	Putative alcohol oxidase OS=Hypoxylon sp. CI-4A OX=1001833 GN=M426DRAFT_66455 PE=3 SV=1	Hypoxylon sp. CI-4A	667	2535	71.4	83.3	0.0
+34	TR	A0A8H6CGI1	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Letharia lupina OX=560253 GN=HO133_001084 PE=3 SV=1	Letharia lupina	664	2535	70.8	81.5	0.0
+35	TR	A0A0D2AFJ7	Alcohol oxidase 1 OS=Verruconis gallopava OX=253628 GN=PV09_03792 PE=3 SV=1	Verruconis gallopava	665	2535	70.9	83.2	0.0
+36	TR	A0AA38VMS1	Alcohol oxidase OS=Coniochaeta hoffmannii OX=91930 GN=NKR19_g2814 PE=3 SV=1	Coniochaeta hoffmannii	666	2534	71.1	82.6	0.0
+37	TR	A0A8H6FRZ8	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Letharia columbiana OX=112416 GN=HO173_008134 PE=3 SV=1	Letharia columbiana	664	2534	70.6	81.3	0.0
+38	TR	A0A6A5X6I6	GMC oxidoreductase OS=Aaosphaeria arxii CBS 175.79 OX=1450172 GN=BU24DRAFT_497969 PE=3 SV=1	Aaosphaeria arxii CBS 175.79	665	2534	71.3	82.7	0.0
+39	TR	A0AAD8ULX6	GMC oxidoreductase OS=Glomerella acutata OX=27357 GN=BDZ83DRAFT_580737 PE=3 SV=1	Glomerella acutata	669	2533	71.1	82.9	0.0
+40	TR	A0A5N5WS51	GMC oxidoreductase-domain-containing protein OS=Aspergillus leporis OX=41062 GN=BDV29DRAFT_197441 PE=3 SV=1	Aspergillus leporis	666	2532	70.9	82.4	0.0
+41	TR	A0A1Y2UY51	Putative alcohol oxidase OS=Hypoxylon sp. CO27-5 OX=1001938 GN=M434DRAFT_23125 PE=3 SV=1	Hypoxylon sp. CO27-5	667	2532	71.1	83.5	0.0
+42	TR	A0A8H3J7F3	Alternative oxidase, mitochondrial OS=Alectoria fallacina OX=1903189 GN=AOX1 PE=3 SV=1	Alectoria fallacina	664	2532	70.3	81.8	0.0
+43	TR	A0AAJ0ADC1	GMC oxidoreductase OS=Colletotrichum godetiae OX=1209918 GN=BDP55DRAFT_337851 PE=3 SV=1	Colletotrichum godetiae	669	2532	71.1	83.1	0.0
+44	TR	A0A0L1IYH5	Alcohol oxidase OS=Aspergillus nomiae NRRL (strain ATCC 15546 / NRRL 13137 / CBS 260.88 / M93) OX=1509407 GN=ANOM_007311 PE=3 SV=1	Aspergillus nomiae NRRL (strain ATCC 15546 / NRRL 13137 / CBS 260.88 / M93)	666	2532	70.5	82.3	0.0
+45	TR	A0A9Q8SG57	GMC oxidoreductase OS=Colletotrichum lupini OX=145971 GN=CLUP02_18297 PE=3 SV=1	Colletotrichum lupini	669	2531	71.1	82.9	0.0
+46	TR	A0A9P7QT10	Alcohol oxidase OS=Colletotrichum scovillei OX=1209932 GN=JMJ77_010124 PE=3 SV=1	Colletotrichum scovillei	669	2531	71.1	82.9	0.0
+47	TR	A0A1G4BGG5	GMC oxidoreductase OS=Colletotrichum orchidophilum OX=1209926 GN=CORC01_04196 PE=3 SV=1	Colletotrichum orchidophilum	669	2530	71.3	82.7	0.0
+48	TR	B8NNE1	Putativeoxidoreductase OS=Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167) OX=332952 GN=F9C07_9810 PE=3 SV=1	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	666	2530	70.8	82.3	0.0
+49	TR	A0AAE0DDF3	Alcohol oxidase OS=Colletotrichum kahawae OX=34407 GN=CKAH01_11677 PE=3 SV=1	Colletotrichum kahawae	670	2530	70.8	83.1	0.0
+50	TR	A0A010RMG6	GMC oxidoreductase OS=Colletotrichum fioriniae PJ7 OX=1445577 GN=CFIO01_03820 PE=3 SV=1	Colletotrichum fioriniae PJ7	669	2530	71.1	82.7	0.0
+51	TR	A0A8H5DIJ8	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Fusarium sp. NRRL 66182 OX=2692428 GN=F66182_2062 PE=3 SV=1	Fusarium sp. NRRL 66182	677	2530	70.9	82.9	0.0
+52	TR	A0A5N7D6G6	GMC oxidoreductase-domain-containing protein OS=Aspergillus pseudonomiae OX=1506151 GN=BDV37DRAFT_273749 PE=3 SV=1	Aspergillus pseudonomiae	666	2529	70.5	82.1	0.0
+53	TR	A0A5N6T6J1	GMC oxidoreductase-domain-containing protein OS=Aspergillus pseudotamarii OX=132259 GN=BDV38DRAFT_295759 PE=3 SV=1	Aspergillus pseudotamarii	666	2528	70.8	82.1	0.0
+54	TR	A0AAI9XEE5	GMC oxidoreductase OS=Colletotrichum cuscutae OX=1209917 GN=CCUS01_02310 PE=3 SV=1	Colletotrichum cuscutae	669	2527	71.0	82.9	0.0
+55	TR	A0AAI9ZF57	GMC oxidoreductase OS=Colletotrichum phormii OX=359342 GN=BDP81DRAFT_332737 PE=3 SV=1	Colletotrichum phormii	669	2527	71.3	82.7	0.0
+56	TR	A0A9P9XNL2	GMC oxidoreductase OS=Colletotrichum abscissum OX=1671311 GN=CABS02_02835 PE=3 SV=1	Colletotrichum abscissum	669	2527	71.0	82.7	0.0
+57	TR	A0A5N6UU48	GMC oxidoreductase-domain-containing protein OS=Aspergillus tamarii OX=41984 GN=BDV40DRAFT_312812 PE=3 SV=1	Aspergillus tamarii	666	2527	70.6	82.3	0.0
+58	TR	A0A5N6DYK3	GMC oxidoreductase-domain-containing protein OS=Aspergillus parasiticus OX=5067 GN=BDV34DRAFT_32941 PE=3 SV=1	Aspergillus parasiticus	666	2527	70.3	82.3	0.0
+59	TR	A0A5N7A3P5	GMC oxidoreductase-domain-containing protein OS=Aspergillus caelatus OX=61420 GN=BDV27DRAFT_172600 PE=3 SV=1	Aspergillus caelatus	666	2527	70.6	82.3	0.0
+60	TR	A0A074WF13	Alcohol oxidase p68 OS=Aureobasidium namibiae CBS 147.97 OX=1043004 GN=M436DRAFT_50262 PE=3 SV=1	Aureobasidium namibiae CBS 147.97	665	2527	70.7	81.1	0.0
+61	TR	A0A0F0IAE6	GMC oxidoreductase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=P875_00064869 PE=3 SV=1	Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)	666	2525	70.3	82.3	0.0
+62	TR	A0A9W9N3E2	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium cinerascens OX=70096 GN=N7498_004113 PE=3 SV=1	Penicillium cinerascens	666	2525	71.3	81.7	0.0
+63	TR	A0A1F7ZTY3	Alcohol oxidase OS=Aspergillus bombycis OX=109264 GN=ABOM_007515 PE=3 SV=1	Aspergillus bombycis	666	2524	70.2	82.0	0.0
+64	TR	A0A5N6EB52	GMC oxidoreductase-domain-containing protein OS=Aspergillus novoparasiticus OX=986946 GN=BDV33DRAFT_25732 PE=3 SV=1	Aspergillus novoparasiticus	666	2524	70.3	82.1	0.0
+65	TR	A0A5M3YNV8	Alcohol oxidase OS=Aspergillus terreus OX=33178 GN=ATEIFO6365_0004031100 PE=3 SV=1	Aspergillus terreus	1286	2524	69.7	81.5	0.0
+66	TR	B8LTH7	Choline dehydrogenase, putative OS=Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) OX=441959 GN=TSTA_065150 PE=3 SV=1	Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006)	665	2522	71.3	82.1	0.0
+67	TR	A0A9N9VG15	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Clonostachys rhizophaga OX=160324 GN=CRHIZ90672A_00014807 PE=3 SV=1	Clonostachys rhizophaga	667	2520	71.3	82.7	0.0
+68	TR	A0A6A6HT04	GMC oxidoreductase OS=Trematosphaeria pertusa OX=390896 GN=BU26DRAFT_202233 PE=3 SV=1	Trematosphaeria pertusa	665	2518	69.8	81.2	0.0
+69	TR	A0A443I0D2	Putativeoxidoreductase OS=Byssochlamys spectabilis OX=264951 GN=C8Q69DRAFT_139101 PE=3 SV=1	Byssochlamys spectabilis	665	2518	70.6	82.3	0.0
+70	TR	A0A9W9U414	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium atrosanguineum OX=1132637 GN=N7476_005445 PE=3 SV=1	Penicillium atrosanguineum	666	2517	70.5	82.3	0.0
+71	TR	A0A162MZU6	Alcohol oxidase OS=Colletotrichum incanum OX=1573173 GN=CI238_09399 PE=3 SV=1	Colletotrichum incanum	669	2516	70.5	82.6	0.0
+72	TR	W3XJD9	Alcohol oxidase OS=Pestalotiopsis fici (strain W106-1 / CGMCC3.15140) OX=1229662 GN=PFICI_04164 PE=3 SV=1	Pestalotiopsis fici (strain W106-1 / CGMCC3.15140)	667	2515	70.8	82.9	0.0
+73	TR	A0A6A5VRB8	Alcohol oxidase p68 OS=Bimuria novae-zelandiae CBS 107.79 OX=1447943 GN=BU23DRAFT_549065 PE=3 SV=1	Bimuria novae-zelandiae CBS 107.79	665	2515	70.3	81.2	0.0
+74	TR	A0A135V8D0	GMC oxidoreductase OS=Colletotrichum salicis OX=1209931 GN=CSAL01_02026 PE=3 SV=1	Colletotrichum salicis	679	2515	70.2	81.8	0.0
+75	TR	A0A1Y2WV54	Putative alcohol oxidase OS=Daldinia sp. EC12 OX=1001832 GN=K445DRAFT_64279 PE=3 SV=1	Daldinia sp. EC12	667	2514	70.6	83.3	0.0
+76	TR	A0A395SP46	Alcohol oxidase OS=Fusarium sporotrichioides OX=5514 GN=FSPOR_1533 PE=3 SV=1	Fusarium sporotrichioides	677	2513	70.2	82.4	0.0
+77	TR	A0A2G7FIX8	Alcohol oxidase OS=Aspergillus arachidicola OX=656916 GN=AARAC_006254 PE=3 SV=1	Aspergillus arachidicola	666	2513	69.9	82.1	0.0
+78	TR	A0A9P7GY36	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Fusarium avenaceum OX=40199 GN=KAF25_000744 PE=3 SV=1	Fusarium avenaceum	677	2513	70.8	82.6	0.0
+79	TR	A0A319DNN5	Alcohol oxidase OS=Aspergillus ellipticus CBS 707.79 OX=1448320 GN=BO71DRAFT_369668 PE=3 SV=1	Aspergillus ellipticus CBS 707.79	666	2512	69.9	81.7	0.0
+80	TR	Q0CAU6	Alcohol oxidase OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX=341663 GN=ATEG_09188 PE=3 SV=1	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	668	2512	69.6	81.3	0.0
+81	TR	A0AAD9HE62	GMC oxidoreductase OS=Colletotrichum zoysiae OX=1216348 GN=LX32DRAFT_620885 PE=3 SV=1	Colletotrichum zoysiae	669	2511	70.5	82.6	0.0
+82	TR	A0A9P6LIY6	Alcohol oxidase OS=Colletotrichum karsti OX=1095194 GN=CkaCkLH20_07758 PE=3 SV=1	Colletotrichum karsti	670	2511	70.2	83.1	0.0
+83	TR	A0A8H4T1Z3	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Fusarium sarcochroum OX=1208366 GN=FSARC_13410 PE=3 SV=1	Fusarium sarcochroum	677	2511	70.2	82.6	0.0
+84	TR	A0A1J7JQ54	Alcohol oxidase OS=Coniochaeta ligniaria NRRL 30616 OX=1408157 GN=CONLIGDRAFT_251301 PE=3 SV=1	Coniochaeta ligniaria NRRL 30616	666	2511	70.7	82.1	0.0
+85	TR	A0A074XWT8	Alcohol oxidase p68 OS=Aureobasidium pullulans EXF-150 OX=1043002 GN=M438DRAFT_262819 PE=3 SV=1	Aureobasidium pullulans EXF-150	665	2511	70.1	80.9	0.0
+86	TR	A0A9W8U5M7	Alternative oxidase, mitochondrial OS=Fusarium irregulare OX=2494466 GN=AOX1 PE=3 SV=1	Fusarium irregulare	677	2510	70.9	82.5	0.0
+87	TR	A0A7R8AH61	Alternative oxidase, mitochondrial OS=Aspergillus puulaauensis OX=1220207 GN=AOX1_2 PE=3 SV=1	Aspergillus puulaauensis	666	2510	70.2	82.1	0.0
+88	TR	A0A1Z5TFN5	Alcohol oxidase 1 OS=Hortaea werneckii EXF-2000 OX=1157616 GN=BTJ68_05377 PE=3 SV=1	Hortaea werneckii EXF-2000	665	2510	69.1	80.8	0.0
+89	TR	A0A3M7BEA0	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Hortaea werneckii OX=91943 GN=D0866_02829 PE=3 SV=1	Hortaea werneckii	665	2510	69.1	80.8	0.0
+90	TR	A0A395N0T1	Alcohol oxidase OS=Fusarium flagelliforme OX=2675880 GN=FIE12Z_1934 PE=3 SV=1	Fusarium flagelliforme	677	2510	70.8	82.4	0.0
+91	TR	A0A0N0DGZ3	Alcohol oxidase OS=Fusarium langsethiae OX=179993 GN=FLAG1_02444 PE=3 SV=1	Fusarium langsethiae	677	2510	70.1	82.4	0.0
+92	TR	A0A6A6RKX0	Alcohol oxidase p68 OS=Massarina eburnea CBS 473.64 OX=1395130 GN=P280DRAFT_510953 PE=3 SV=1	Massarina eburnea CBS 473.64	665	2509	70.0	81.2	0.0
+93	TR	A0A9P4QI35	GMC oxidoreductase OS=Polychaeton citri CBS 116435 OX=1314669 GN=K431DRAFT_215855 PE=3 SV=1	Polychaeton citri CBS 116435	665	2509	68.8	81.7	0.0
+94	TR	A0A3M6WYP1	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Hortaea werneckii OX=91943 GN=D0866_05889 PE=3 SV=1	Hortaea werneckii	665	2509	68.9	80.9	0.0
+95	TR	A0A9W9V5Q5	Glucose-methanol-choline oxidoreductase OS=Penicillium brevicompactum OX=5074 GN=N7541_001182 PE=3 SV=1	Penicillium brevicompactum	666	2508	70.9	81.0	0.0
+96	TR	V5FXD6	Glucose-methanol-choline (Gmc) oxidoreductase, putative OS=Byssochlamys spectabilis (strain No. 5 / NBRC 109023) OX=1356009 GN=PVAR5_1905 PE=3 SV=1	Byssochlamys spectabilis (strain No. 5 / NBRC 109023)	665	2508	70.5	82.1	0.0
+97	TR	R7YPA1	Alcohol oxidase OS=Coniosporium apollinis (strain CBS 100218) OX=1168221 GN=W97_02988 PE=3 SV=1	Coniosporium apollinis (strain CBS 100218)	665	2508	70.1	79.9	0.0
+98	TR	A0A1Z5TU80	Alcohol oxidase 1 OS=Hortaea werneckii EXF-2000 OX=1157616 GN=BTJ68_00396 PE=3 SV=1	Hortaea werneckii EXF-2000	665	2507	68.9	80.9	0.0
+99	TR	A0A5N6IXE8	GMC oxidoreductase-domain-containing protein OS=Aspergillus minisclerotigenes OX=656917 GN=BDV30DRAFT_150929 PE=3 SV=1	Aspergillus minisclerotigenes	665	2507	70.2	82.1	0.0
+100	TR	A0A8K0TJU5	GMC oxidoreductase OS=Plectosphaerella cucumerina OX=40658 GN=B0T11DRAFT_279195 PE=3 SV=1	Plectosphaerella cucumerina	669	2506	70.1	83.2	0.0
+101	TR	A0A6A6BVA2	GMC oxidoreductase OS=Aplosporella prunicola CBS 121167 OX=1176127 GN=K452DRAFT_261609 PE=3 SV=1	Aplosporella prunicola CBS 121167	665	2506	70.1	80.9	0.0
+102	TR	A0A3A2ZSQ4	Alcohol oxidase OS=Aspergillus sclerotialis OX=2070753 GN=PHISCL_06651 PE=3 SV=1	Aspergillus sclerotialis	666	2506	70.3	81.2	0.0
+103	TR	A0A6A6EVP8	GMC oxidoreductase OS=Zopfia rhizophila CBS 207.26 OX=1314779 GN=K469DRAFT_733829 PE=3 SV=1	Zopfia rhizophila CBS 207.26	665	2505	69.2	81.4	0.0
+104	TR	A0A1B8AE72	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Fusarium poae OX=36050 GN=FPOA_10498 PE=3 SV=1	Fusarium poae	677	2505	70.3	82.3	0.0
+105	TR	A0A5N5KQM7	GMC oxidoreductase-domain-containing protein OS=Coniochaeta sp. 2T2.1 OX=1571157 GN=GE09DRAFT_1145458 PE=3 SV=1	Coniochaeta sp. 2T2.1	666	2505	70.7	82.6	0.0
+106	TR	A0A8H5T9U2	Alcohol oxidase OS=Fusarium heterosporum OX=42747 GN=FHETE_6790 PE=3 SV=1	Fusarium heterosporum	677	2505	70.5	82.6	0.0
+107	TR	A0A8J5UFF6	Alcohol oxidase 1 OS=Fusarium oxysporum f. sp. rapae OX=485398 GN=AOX1-0 PE=3 SV=1	Fusarium oxysporum f. sp. rapae	677	2505	70.8	82.1	0.0
+108	TR	A0A0A2L8C1	Glucose-methanol-choline oxidoreductase OS=Penicillium italicum OX=40296 GN=PITC_091990 PE=3 SV=1	Penicillium italicum	666	2504	70.2	81.3	0.0
+109	TR	A0A2V1DZ69	Alcohol oxidase OS=Periconia macrospinosa OX=97972 GN=DM02DRAFT_670748 PE=3 SV=1	Periconia macrospinosa	665	2504	69.4	81.7	0.0
+110	TR	A0A6A6TKR1	GMC oxidoreductase OS=Lophiostoma macrostomum CBS 122681 OX=1314788 GN=K491DRAFT_712530 PE=3 SV=1	Lophiostoma macrostomum CBS 122681	665	2504	69.7	81.5	0.0
+111	TR	A0A8H6ABA8	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Petromyces alliaceus OX=209559 GN=ETB97_008779 PE=3 SV=1	Petromyces alliaceus	666	2503	70.0	81.5	0.0
+112	TR	A0A9P9JKJ9	GMC oxidoreductase-domain-containing protein OS=Fusarium redolens OX=48865 GN=BKA55DRAFT_585948 PE=3 SV=1	Fusarium redolens	677	2503	70.6	82.1	0.0
+113	TR	A0A0A2K2L2	Glucose-methanol-choline oxidoreductase OS=Penicillium expansum OX=27334 GN=PEX2_014350 PE=3 SV=1	Penicillium expansum	666	2503	70.2	81.3	0.0
+114	TR	A0A066X5A7	Putative GMC oxidoreductase OS=Colletotrichum sublineola OX=1173701 GN=CSUB01_02725 PE=3 SV=1	Colletotrichum sublineola	669	2503	70.2	82.4	0.0
+115	TR	A0A9W4P3L2	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium egyptiacum OX=1303716 GN=PEGY_LOCUS3235 PE=3 SV=1	Penicillium egyptiacum	668	2503	70.2	81.3	0.0
+116	TR	A0A0C4E9L8	Alcohol oxidase OS=Magnaporthiopsis poae (strain ATCC 64411 / 73-15) OX=644358 GN=MAPG_09313 PE=3 SV=1	Magnaporthiopsis poae (strain ATCC 64411 / 73-15)	676	2503	71.0	82.6	0.0
+117	TR	A0A1V6TTI6	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium steckii OX=303698 GN=PENSTE_c002G02532 PE=3 SV=1	Penicillium steckii	666	2502	69.9	81.3	0.0
+118	TR	E3QV85	GMC oxidoreductase OS=Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212) OX=645133 GN=GLRG_09919 PE=3 SV=1	Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212)	669	2502	70.4	82.4	0.0
+119	TR	A0A8H4NEE8	Alcohol oxidase OS=Fusarium austroafricanum OX=2364996 GN=F53441_14181 PE=3 SV=1	Fusarium austroafricanum	675	2502	70.2	82.7	0.0
+120	TR	A0AAE8MKC0	Probable alcohol oxidase OS=Fusarium torulosum OX=33205 GN=FTOL_11629 PE=3 SV=1	Fusarium torulosum	677	2501	70.6	82.3	0.0
+121	TR	A0AAD6N3F3	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium canescens OX=5083 GN=N7460_011378 PE=3 SV=1	Penicillium canescens	666	2501	70.3	81.2	0.0
+122	TR	W7N4L9	Alcohol oxidase OS=Gibberella moniliformis (strain M3125 / FGSC 7600) OX=334819 GN=FVEG_12768 PE=3 SV=1	Gibberella moniliformis (strain M3125 / FGSC 7600)	677	2501	70.8	82.0	0.0
+123	TR	A0A9W9S4F2	Glucose-methanol-choline oxidoreductase OS=Penicillium concentricum OX=293559 GN=N7517_003847 PE=3 SV=1	Penicillium concentricum	666	2501	70.3	81.2	0.0
+124	TR	A0AAI8VLK4	Uu.00g083090.m01.CDS01 OS=Anthostomella pinea OX=933095 GN=KHLLAP_LOCUS7591 PE=3 SV=1	Anthostomella pinea	737	2501	69.6	82.4	0.0
+125	TR	A0A2K0WVU4	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Gibberella nygamai OX=42673 GN=FNYG_00078 PE=3 SV=1	Gibberella nygamai	677	2501	70.8	82.0	0.0
+126	TR	A0A8E2EU87	Alcohol oxidase OS=Glonium stellatum OX=574774 GN=AOQ84DRAFT_117066 PE=3 SV=1	Glonium stellatum	665	2500	69.8	81.1	0.0
+127	TR	A0AAD6CR53	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium glabrum OX=69773 GN=N7494_010080 PE=3 SV=1	Penicillium glabrum	666	2500	70.0	82.0	0.0
+128	TR	A0A1Y2EKH6	GMC oxidoreductase-domain-containing protein OS=Pseudomassariella vexata OX=1141098 GN=BCR38DRAFT_331525 PE=3 SV=1	Pseudomassariella vexata	667	2500	70.1	81.9	0.0
+129	TR	A0A166RI72	Alcohol oxidase (GMC oxidoreductase) (Fragment) OS=Colletotrichum tofieldiae OX=708197 GN=CT0861_08760 PE=3 SV=1	Colletotrichum tofieldiae	674	2500	70.1	82.6	0.0
+130	TR	A0A5N5JXS7	GMC oxidoreductase-domain-containing protein OS=Coniochaeta sp. 2T2.1 OX=1571157 GN=GE09DRAFT_1065425 PE=3 SV=1	Coniochaeta sp. 2T2.1	666	2500	70.7	82.4	0.0
+131	TR	A0A8H5UXZ5	Alcohol oxidase OS=Fusarium pseudocircinatum OX=56676 GN=FPCIR_1314 PE=3 SV=1	Fusarium pseudocircinatum	677	2500	70.6	82.0	0.0
+132	TR	A0AAD8UYL1	GMC oxidoreductase OS=Colletotrichum navitas OX=681940 GN=LY79DRAFT_527248 PE=3 SV=1	Colletotrichum navitas	669	2500	70.2	82.6	0.0
+133	TR	A0A2I2F6L9	Putativeoxidoreductase OS=Aspergillus candidus OX=41067 GN=BDW47DRAFT_132893 PE=3 SV=1	Aspergillus candidus	668	2499	69.2	81.1	0.0
+134	TR	A0A9W9C5I7	Alternative oxidase, mitochondrial OS=Didymosphaeria variabile OX=1932322 GN=AOX1 PE=3 SV=1	Didymosphaeria variabile	665	2499	70.0	80.8	0.0
+135	TR	A0A9P9MUI7	Alcohol oxidase p68 OS=Pyrenochaeta sp. MPI-SDFR-AT-0127 OX=2829485 GN=BKA66DRAFT_431355 PE=3 SV=1	Pyrenochaeta sp. MPI-SDFR-AT-0127	666	2499	69.9	81.4	0.0
+136	TR	A0A9P6GDE0	Alcohol oxidase 1 OS=Paraphaeosphaeria minitans OX=565426 GN=PMIN01_08715 PE=3 SV=1	Paraphaeosphaeria minitans	665	2499	69.8	80.8	0.0
+137	TR	S0DVK4	Probable alcohol oxidase OS=Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831) OX=1279085 GN=FFUJ_02388 PE=3 SV=1	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	677	2499	70.5	82.0	0.0
+138	TR	A0A8H5XUR4	Alcohol oxidase OS=Fusarium globosum OX=78864 GN=FGLOB1_10944 PE=3 SV=1	Fusarium globosum	677	2499	70.5	82.0	0.0
+139	TR	A0A9W9P1U0	Alcohol oxidase OS=Penicillium citrinum OX=5077 GN=N7469_005574 PE=3 SV=1	Penicillium citrinum	666	2499	69.7	81.3	0.0
+140	TR	A0A8E2EGT7	GMC oxidoreductase OS=Lepidopterella palustris CBS 459.81 OX=1314670 GN=K432DRAFT_379213 PE=3 SV=1	Lepidopterella palustris CBS 459.81	667	2499	69.2	81.3	0.0
+141	TR	A0AAD6H3H5	Glucose-methanol-choline oxidoreductase OS=Penicillium hordei OX=40994 GN=N7537_006849 PE=3 SV=1	Penicillium hordei	666	2498	70.2	81.3	0.0
+142	TR	A0A9P8IUV4	Alternative oxidase, mitochondrial OS=Fusarium musae OX=1042133 GN=AOX1_2 PE=3 SV=1	Fusarium musae	677	2498	70.6	82.0	0.0
+143	TR	A0A8H4NDV8	Alcohol oxidase OS=Fusarium acutatum OX=78861 GN=FACUT_12146 PE=3 SV=1	Fusarium acutatum	677	2498	70.6	82.0	0.0
+144	TR	A0A9W9JGQ1	Glucose-methanol-choline oxidoreductase OS=Penicillium cf. viridicatum OX=2972119 GN=N7449_006548 PE=3 SV=1	Penicillium cf. viridicatum	666	2498	69.9	81.3	0.0
+145	TR	A0A3D8SR04	Putative alcohol oxidase OS=Coleophoma cylindrospora OX=1849047 GN=BP6252_00676 PE=3 SV=1	Coleophoma cylindrospora	666	2498	69.4	81.7	0.0
+146	TR	E3RDM4	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Pyrenophora teres f. teres (strain 0-1) OX=861557 GN=PTT_02545 PE=3 SV=1	Pyrenophora teres f. teres (strain 0-1)	665	2498	69.7	81.1	0.0
+147	TR	A0A0D2YGJ6	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Fusarium oxysporum (strain Fo5176) OX=660025 GN=28956495 PE=3 SV=1	Fusarium oxysporum (strain Fo5176)	677	2497	70.5	82.1	0.0
+148	TR	A0A444RM56	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Verticillium dahliae OX=27337 GN=VDGE_09583 PE=3 SV=1	Verticillium dahliae	669	2497	70.7	82.1	0.0
+149	TR	A0A0J9W3E3	Alcohol oxidase OS=Fusarium oxysporum f. sp. lycopersici (strain 4287 / CBS 123668 / FGSC 9935 / NRRL 34936) OX=426428 GN=FOXG_15437 PE=3 SV=1	Fusarium oxysporum f. sp. lycopersici (strain 4287 / CBS 123668 / FGSC 9935 / NRRL 34936)	677	2497	70.5	82.1	0.0
+150	TR	A0A1L9P564	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Aspergillus versicolor CBS 583.65 OX=1036611 GN=ASPVEDRAFT_78409 PE=3 SV=1	Aspergillus versicolor CBS 583.65	666	2497	69.7	82.0	0.0
+151	TR	A0A2H3H306	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Fusarium oxysporum f. sp. radicis-cucumerinum OX=327505 GN=AU210_005818 PE=3 SV=1	Fusarium oxysporum f. sp. radicis-cucumerinum	677	2497	70.5	82.1	0.0
+152	TR	A0A1L9TT25	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Aspergillus sydowii CBS 593.65 OX=1036612 GN=ASPSYDRAFT_86212 PE=3 SV=1	Aspergillus sydowii CBS 593.65	666	2497	69.7	82.1	0.0
+153	TR	X0CZJ3	Alcohol oxidase OS=Fusarium oxysporum f. sp. raphani 54005 OX=1089458 GN=FOQG_00057 PE=3 SV=1	Fusarium oxysporum f. sp. raphani 54005	677	2497	70.5	82.1	0.0
+154	TR	W9J4H7	Alcohol oxidase OS=Fusarium oxysporum NRRL 32931 OX=660029 GN=FOYG_03686 PE=3 SV=1	Fusarium oxysporum NRRL 32931	677	2497	70.5	82.1	0.0
+155	TR	N4TXI0	Alcohol oxidase OS=Fusarium oxysporum f. sp. cubense (strain race 1) OX=1229664 GN=FOC1_g10008055 PE=3 SV=1	Fusarium oxysporum f. sp. cubense (strain race 1)	677	2497	70.5	82.1	0.0
+156	TR	N1S467	Alcohol oxidase OS=Fusarium oxysporum f. sp. cubense (strain race 4) OX=2502994 GN=FOC4_g10004391 PE=3 SV=1	Fusarium oxysporum f. sp. cubense (strain race 4)	677	2497	70.5	82.1	0.0
+157	TR	A0A2H3T5T6	Probable alcohol oxidase OS=Fusarium oxysporum OX=5507 GN=FOXYS1_8557 PE=3 SV=1	Fusarium oxysporum	677	2497	70.5	82.1	0.0
+158	TR	A0A1V6Y250	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium nalgiovense OX=60175 GN=PENNAL_c0041G04428 PE=3 SV=1	Penicillium nalgiovense	666	2497	70.2	80.9	0.0
+159	TR	A0A1B7XRE5	GMC oxidoreductase OS=Colletotrichum higginsianum (strain IMI 349063) OX=759273 GN=CH63R_13520 PE=3 SV=1	Colletotrichum higginsianum (strain IMI 349063)	669	2496	70.4	81.7	0.0
+160	TR	A0A0G4PTH8	Glucose-methanol-choline oxidoreductase OS=Penicillium camemberti (strain FM 013) OX=1429867 GN=PCAMFM013_S039g000007 PE=3 SV=1	Penicillium camemberti (strain FM 013)	666	2496	69.9	81.3	0.0
+161	TR	A0A8H5ULJ0	Alcohol oxidase OS=Gibberella subglutinans OX=42677 GN=FSUBG_10347 PE=3 SV=1	Gibberella subglutinans	677	2496	70.6	82.0	0.0
+162	TR	A0A1M3TB82	GMC oxidoreductase OS=Aspergillus luchuensis (strain CBS 106.47) OX=1137211 GN=ASPFODRAFT_63108 PE=3 SV=1	Aspergillus luchuensis (strain CBS 106.47)	667	2496	70.2	82.1	0.0
+163	TR	A0A9P5ABL8	Alcohol oxidase OS=Fusarium beomiforme OX=44412 GN=FBEOM_10319 PE=3 SV=1	Fusarium beomiforme	677	2496	70.2	82.6	0.0
+164	TR	A0A1W2TQY8	Putative alcohol oxidase OS=Rosellinia necatrix OX=77044 GN=SAMD00023353_5100090 PE=3 SV=1	Rosellinia necatrix	667	2496	71.1	81.8	0.0
+165	TR	A0A4T0WKD8	Alcohol oxidase 1 OS=Colletotrichum higginsianum OX=80884 GN=CH35J_000058 PE=3 SV=1	Colletotrichum higginsianum	669	2496	70.4	81.7	0.0
+166	TR	A0A3E2GT83	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein (Fragment) OS=Scytalidium lignicola OX=5539 GN=B7463_g11954 PE=3 SV=1	Scytalidium lignicola	933	2496	69.4	82.4	0.0
+167	TR	A0AA37P1W5	Alcohol oxidase 1 OS=Colletotrichum spaethianum OX=700344 GN=ColSpa_05639 PE=3 SV=1	Colletotrichum spaethianum	669	2495	70.1	82.3	0.0
+168	TR	A0A1L9NM57	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Aspergillus tubingensis (strain CBS 134.48) OX=767770 GN=ASPTUDRAFT_162688 PE=3 SV=1	Aspergillus tubingensis (strain CBS 134.48)	667	2495	70.1	82.1	0.0
+169	TR	A0A420Y6G0	Alternative oxidase, mitochondrial OS=Coniochaeta pulveracea OX=177199 GN=AOX1_1 PE=3 SV=1	Coniochaeta pulveracea	666	2495	70.1	82.6	0.0
+170	TR	A0A9X0BQW1	Alcohol oxidase OS=Penicillium desertorum OX=1303715 GN=N7530_004556 PE=3 SV=1	Penicillium desertorum	666	2495	70.0	81.0	0.0
+171	TR	G9N8S0	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Hypocrea virens (strain Gv29-8 / FGSC 10586) OX=413071 GN=TRIVIDRAFT_82909 PE=3 SV=1	Hypocrea virens (strain Gv29-8 / FGSC 10586)	675	2495	70.2	82.3	0.0
+172	TR	A0A8H5MKR1	Alcohol oxidase OS=Fusarium phyllophilum OX=47803 GN=FPHYL_13805 PE=3 SV=1	Fusarium phyllophilum	677	2494	70.3	82.0	0.0
+173	TR	A0A3M7MC52	Alcohol oxidase OS=Pyrenophora seminiperda CCB06 OX=1302712 GN=GMOD_00007032 PE=3 SV=1	Pyrenophora seminiperda CCB06	665	2494	69.4	80.9	0.0
+174	TR	A0A9P5D3U7	Alcohol oxidase OS=Geosmithia morbida OX=1094350 GN=GMORB2_2863 PE=3 SV=1	Geosmithia morbida	669	2494	69.8	82.4	0.0
+175	TR	A0A9P4JXK2	Alcohol oxidase p68 OS=Delitschia confertaspora ATCC 74209 OX=1513339 GN=GQ43DRAFT_363234 PE=3 SV=1	Delitschia confertaspora ATCC 74209	665	2494	69.1	80.9	0.0
+176	TR	A0A8H5QRJ6	Alcohol oxidase OS=Fusarium sp. NRRL 52700 OX=1101274 GN=F52700_12066 PE=3 SV=1	Fusarium sp. NRRL 52700	677	2494	70.5	82.0	0.0
+177	TR	J3PH24	Alcohol oxidase OS=Gaeumannomyces tritici (strain R3-111a-1) OX=644352 GN=20353262 PE=3 SV=1	Gaeumannomyces tritici (strain R3-111a-1)	676	2494	70.7	82.4	0.0
+178	TR	A0A2T4BTG5	GMC oxidoreductase OS=Trichoderma longibrachiatum ATCC 18648 OX=983965 GN=M440DRAFT_1341337 PE=3 SV=1	Trichoderma longibrachiatum ATCC 18648	675	2493	70.5	82.3	0.0
+179	TR	A0A1V6S025	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium vulpinum OX=29845 GN=PENVUL_c015G03269 PE=3 SV=1	Penicillium vulpinum	666	2493	70.5	80.6	0.0
+180	TR	A0A401KSG4	Alcohol oxidase 1 OS=Aspergillus awamori OX=105351 GN=AAWM_05090 PE=3 SV=1	Aspergillus awamori	667	2493	70.0	81.5	0.0
+181	TR	A0A1Y1Y8W2	Alcohol oxidase p68 OS=Clohesyomyces aquaticus OX=1231657 GN=BCR34DRAFT_608273 PE=3 SV=1	Clohesyomyces aquaticus	665	2493	69.8	80.3	0.0
+182	TR	A0A6A5WMQ6	GMC oxidoreductase OS=Amniculicola lignicola CBS 123094 OX=1392246 GN=P154DRAFT_619468 PE=3 SV=1	Amniculicola lignicola CBS 123094	665	2493	68.9	81.2	0.0
+183	TR	A0A9P8V329	GMC oxidoreductase OS=Plectosphaerella plurivora OX=936078 GN=F5X68DRAFT_265015 PE=3 SV=1	Plectosphaerella plurivora	669	2493	70.2	82.1	0.0
+184	TR	W6QZY1	Alcohol oxidase OS=Penicillium roqueforti (strain FM164) OX=1365484 GN=AOD1 PE=3 SV=1	Penicillium roqueforti (strain FM164)	666	2492	69.6	81.5	0.0
+185	TR	A0A9P4N9G9	Alcohol oxidase p68 OS=Lojkania enalia OX=147567 GN=CC78DRAFT_302023 PE=3 SV=1	Lojkania enalia	665	2492	69.2	81.2	0.0
+186	TR	B6H004	Alcohol oxidase aox-Penicillium chrysogenum OS=Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255) OX=500485 GN=Pc12g09950 PE=3 SV=1	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	666	2492	70.0	80.9	0.0
+187	TR	R0JW60	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Exserohilum turcicum (strain 28A) OX=671987 GN=SETTUDRAFT_32404 PE=3 SV=1	Exserohilum turcicum (strain 28A)	665	2492	69.5	80.8	0.0
+188	TR	A0A9W9MYR8	Glucose-methanol-choline oxidoreductase OS=Penicillium cf. griseofulvum OX=2972120 GN=N7472_000183 PE=3 SV=1	Penicillium cf. griseofulvum	666	2491	70.0	80.9	0.0
+189	TR	A0AAI8YYC7	GMC oxidoreductase OS=Lecanosticta acicola OX=111012 GN=LECACI_7A004246 PE=3 SV=1	Lecanosticta acicola	665	2491	68.9	80.3	0.0
+190	TR	A0A9W8NA34	methionine--tRNA ligase OS=Xylaria arbuscula OX=114810 GN=NPX13_g7674 PE=3 SV=1	Xylaria arbuscula	1345	2491	70.4	82.6	0.0
+191	TR	A0A4U6X6L6	Alcohol oxidase 1 OS=Colletotrichum tanaceti OX=1306861 GN=AOX1 PE=3 SV=1	Colletotrichum tanaceti	669	2491	70.1	81.7	0.0
+192	TR	A0A6A5S2G2	GMC oxidoreductase OS=Didymella exigua CBS 183.55 OX=1150837 GN=M421DRAFT_319572 PE=3 SV=1	Didymella exigua CBS 183.55	665	2491	69.2	81.1	0.0
+193	TR	A0A8K0WDV4	GMC oxidoreductase-domain-containing protein OS=Fusarium tricinctum OX=61284 GN=BKA59DRAFT_393155 PE=3 SV=1	Fusarium tricinctum	677	2491	70.3	82.3	0.0
+194	TR	A0A2B7XYC7	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Helicocarpus griseus UAMH5409 OX=1447875 GN=AJ79_03299 PE=3 SV=1	Helicocarpus griseus UAMH5409	665	2491	70.2	82.0	0.0
+195	TR	A0A9P4PIX4	GMC oxidoreductase OS=Karstenula rhodostoma CBS 690.94 OX=1392251 GN=P171DRAFT_358115 PE=3 SV=1	Karstenula rhodostoma CBS 690.94	665	2490	69.8	80.9	0.0
+196	TR	A0AAI9TN52	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium thymicola OX=293382 GN=VN97_g2992 PE=3 SV=1	Penicillium thymicola	666	2490	69.9	81.0	0.0
+197	TR	A0A2T4B080	GMC oxidoreductase OS=Trichoderma citrinoviride OX=58853 GN=BBK36DRAFT_1136528 PE=3 SV=1	Trichoderma citrinoviride	675	2490	70.0	82.3	0.0
+198	TR	A0A8H6LN45	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Fusarium oxysporum f. sp. conglutinans OX=100902 GN=HZS61_009293 PE=3 SV=1	Fusarium oxysporum f. sp. conglutinans	677	2490	70.3	82.0	0.0
+199	TR	A0A7C8MEZ2	Alcohol oxidase p68 OS=Massariosphaeria phaeospora OX=100035 GN=BDV95DRAFT_625778 PE=3 SV=1	Massariosphaeria phaeospora	665	2490	69.2	81.1	0.0
+200	TR	A0A5N7AS31	GMC oxidoreductase-domain-containing protein OS=Aspergillus bertholletiae OX=1226010 GN=BDV26DRAFT_285850 PE=3 SV=1	Aspergillus bertholletiae	666	2490	69.9	81.3	0.0
+201	TR	A0A0E0SDM0	Chromosome 4, complete genome OS=Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1) OX=229533 GN=FG07530.1 PE=3 SV=1	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	677	2490	69.9	82.0	0.0
+202	TR	A0A2T4H210	Alcohol oxidase 1 OS=Fusarium culmorum OX=5516 GN=FCULG_00007778 PE=3 SV=1	Fusarium culmorum	677	2490	69.9	82.0	0.0
+203	TR	M2V4S3	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Cochliobolus heterostrophus (strain C5 / ATCC 48332 / race O) OX=701091 GN=COCHEDRAFT_1222232 PE=3 SV=1	Cochliobolus heterostrophus (strain C5 / ATCC 48332 / race O)	665	2489	69.4	80.6	0.0
+204	TR	A0AA38RUA9	Alcohol oxidase OS=Pleurostoma richardsiae OX=41990 GN=NKR23_g4989 PE=3 SV=1	Pleurostoma richardsiae	666	2489	70.1	82.9	0.0
+205	TR	A0A175W4Q6	Alcohol oxidase 1 OS=Madurella mycetomatis OX=100816 GN=MMYC01_205576 PE=3 SV=1	Madurella mycetomatis	666	2489	70.9	82.1	0.0
+206	TR	A0A6A5K6I3	Alcohol oxidase p68 OS=Decorospora gaudefroyi OX=184978 GN=BDW02DRAFT_599967 PE=3 SV=1	Decorospora gaudefroyi	665	2489	69.2	81.4	0.0
+207	TR	A0A317VRS8	Alcohol oxidase OS=Aspergillus heteromorphus CBS 117.55 OX=1448321 GN=BO70DRAFT_318495 PE=3 SV=1	Aspergillus heteromorphus CBS 117.55	666	2488	69.4	81.3	0.0
+208	TR	G0RRS1	Predicted protein OS=Hypocrea jecorina (strain QM6a) OX=431241 GN=TRIREDRAFT_80659 PE=3 SV=1	Hypocrea jecorina (strain QM6a)	675	2488	70.2	82.3	0.0
+209	TR	A0A7H8QPQ1	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Talaromyces rugulosus OX=121627 GN=TRUGW13939_02544 PE=3 SV=1	Talaromyces rugulosus	665	2487	69.7	81.3	0.0
+210	TR	K3VE05	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Fusarium pseudograminearum (strain CS3096) OX=1028729 GN=FPSE_07499 PE=3 SV=1	Fusarium pseudograminearum (strain CS3096)	669	2487	69.7	82.0	0.0
+211	TR	A0A517L855	Alternative oxidase, mitochondrial OS=Venturia effusa OX=50376 GN=AOX1_1 PE=3 SV=1	Venturia effusa	665	2487	69.5	81.1	0.0
+212	TR	A0A6G1JBL8	GMC oxidoreductase OS=Lentithecium fluviatile CBS 122367 OX=1168545 GN=K458DRAFT_295036 PE=3 SV=1	Lentithecium fluviatile CBS 122367	665	2486	69.1	81.4	0.0
+213	TR	A0A9W9SFC8	Oxidoreductase OS=Penicillium cataractarum OX=2100454 GN=N7496_004975 PE=3 SV=1	Penicillium cataractarum	674	2486	68.9	80.7	0.0
+214	TR	A0A3F3PYJ0	GMC oxidoreductase-domain-containing protein OS=Aspergillus welwitschiae OX=1341132 GN=BDQ94DRAFT_171603 PE=3 SV=1	Aspergillus welwitschiae	667	2486	69.8	81.2	0.0
+215	TR	A0A2N3N139	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Lomentospora prolificans OX=41688 GN=jhhlp_007461 PE=3 SV=1	Lomentospora prolificans	963	2486	70.6	82.1	0.0
+216	TR	A0A1E3BR69	Alcohol oxidase OS=Aspergillus cristatus OX=573508 GN=SI65_01062 PE=3 SV=1	Aspergillus cristatus	665	2486	69.7	81.5	0.0
+217	TR	A0A8H7J4N0	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Ascochyta lentis OX=205686 GN=EKO04_005557 PE=3 SV=1	Ascochyta lentis	667	2485	69.5	80.8	0.0
+218	TR	A0A9W9LF00	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium capsulatum OX=69766 GN=N7492_010298 PE=3 SV=1	Penicillium capsulatum	666	2485	69.8	81.1	0.0
+219	TR	A0A101MG75	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium freii OX=48697 GN=ACN42_g7291 PE=3 SV=1	Penicillium freii	666	2484	69.6	81.2	0.0
+220	TR	A0A8H4PG38	alpha-1,2-Mannosidase OS=Fusarium albosuccineum OX=1237068 GN=FALBO_3243 PE=3 SV=1	Fusarium albosuccineum	1573	2484	70.2	81.5	0.0
+221	TR	W6YIK7	GMC oxidoreductase OS=Cochliobolus carbonum (strain 26-R-13) OX=930089 GN=COCCADRAFT_85893 PE=3 SV=1	Cochliobolus carbonum (strain 26-R-13)	665	2484	69.4	80.9	0.0
+222	TR	A0A9W9Y8B0	Glucose-methanol-choline oxidoreductase OS=Penicillium fimorum OX=1882269 GN=N7463_001305 PE=3 SV=1	Penicillium fimorum	666	2484	69.9	81.2	0.0
+223	TR	A0A177CWT1	Alcohol oxidase p68 OS=Paraphaeosphaeria sporulosa OX=1460663 GN=CC84DRAFT_8385 PE=3 SV=1	Paraphaeosphaeria sporulosa	665	2483	69.7	80.6	0.0
+224	TR	A0A9P7IBP3	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Fusarium xylarioides OX=221167 GN=H9Q72_000838 PE=3 SV=1	Fusarium xylarioides	677	2483	69.7	82.0	0.0
+225	TR	A0A9W4NEE7	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium salamii OX=1612424 GN=PSALAMII_LOCUS3290 PE=3 SV=1	Penicillium salamii	666	2483	69.9	81.0	0.0
+226	TR	A0A9W9FWG5	Alcohol oxidase OS=Penicillium angulare OX=116970 GN=N7456_004400 PE=3 SV=1	Penicillium angulare	666	2483	69.4	81.3	0.0
+227	TR	R8BGK6	Putative alcohol oxidase protein OS=Phaeoacremonium minimum (strain UCR-PA7) OX=1286976 GN=UCRPA7_6115 PE=3 SV=1	Phaeoacremonium minimum (strain UCR-PA7)	680	2483	70.0	82.1	0.0
+228	TR	A0A135LT87	Glucose-methanol-choline oxidoreductase OS=Penicillium patulum OX=5078 GN=PGRI_084540 PE=3 SV=1	Penicillium patulum	666	2482	69.9	80.7	0.0
+229	TR	A0A1V6N6L8	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium polonicum OX=60169 GN=PENPOL_c025G09967 PE=3 SV=1	Penicillium polonicum	666	2482	69.6	81.2	0.0
+230	TR	A2RB46	Contig An18c0170, genomic contig OS=Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513) OX=425011 GN=An18g05480 PE=3 SV=1	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	667	2482	69.7	81.1	0.0
+231	TR	A0A395HPP0	Oxidoreductase OS=Aspergillus homomorphus (strain CBS 101889) OX=1450537 GN=BO97DRAFT_472016 PE=3 SV=1	Aspergillus homomorphus (strain CBS 101889)	666	2482	68.3	81.1	0.0
+232	TR	Q5BFW3	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=ANIA_00567 PE=3 SV=1	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	687	2482	68.1	79.7	0.0
+233	TR	A0A2V5HC18	Alcohol oxidase OS=Aspergillus violaceofuscus (strain CBS 115571) OX=1450538 GN=BO99DRAFT_433238 PE=3 SV=1	Aspergillus violaceofuscus (strain CBS 115571)	666	2482	68.2	80.8	0.0
+234	TR	A0A319CFQ0	Alcohol oxidase OS=Aspergillus uvarum CBS 121591 OX=1448315 GN=BO82DRAFT_354021 PE=3 SV=1	Aspergillus uvarum CBS 121591	666	2482	68.0	80.9	0.0
+235	TR	A0A6A6D4J5	GMC oxidoreductase OS=Zasmidium cellare ATCC 36951 OX=1080233 GN=M409DRAFT_62175 PE=3 SV=1	Zasmidium cellare ATCC 36951	665	2481	68.5	81.4	0.0
+236	TR	A0A194UX87	Alcohol oxidase 1 OS=Cytospora mali OX=578113 GN=VP1G_03697 PE=3 SV=1	Cytospora mali	675	2481	69.9	82.3	0.0
+237	TR	A0A9X0AU43	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Sclerotinia nivalis OX=352851 GN=OCU04_002326 PE=3 SV=1	Sclerotinia nivalis	666	2481	69.9	82.3	0.0
+238	TR	A0A9W4UHD4	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Periconia digitata OX=1303443 GN=PDIGIT_LOCUS8112 PE=3 SV=1	Periconia digitata	665	2481	68.9	80.6	0.0
+239	TR	A0A9P4J393	GMC oxidoreductase OS=Myriangium duriaei CBS 260.36 OX=1168546 GN=K461DRAFT_306734 PE=3 SV=1	Myriangium duriaei CBS 260.36	665	2481	68.6	80.3	0.0
+240	TR	E4ZS94	Similar to alcohol oxidase OS=Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8) OX=985895 GN=LEMA_P122530.1 PE=3 SV=1	Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8)	665	2481	68.8	80.3	0.0
+241	TR	A0A6A6P044	Putativeoxidoreductase OS=Lineolata rhizophorae OX=578093 GN=BDY21DRAFT_363659 PE=3 SV=1	Lineolata rhizophorae	672	2481	68.3	80.7	0.0
+242	TR	A0A428PAC1	Alcohol oxidase 1 OS=Fusarium duplospermum OX=1325734 GN=CEP54_012165 PE=3 SV=1	Fusarium duplospermum	675	2481	69.8	81.9	0.0
+243	TR	A0A4Q4VBJ1	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Monosporascus sp. MC13-8B OX=2211646 GN=DL766_004960 PE=3 SV=1	Monosporascus sp. MC13-8B	666	2480	69.8	82.6	0.0
+244	TR	A0A5N6TJD5	GMC oxidoreductase-domain-containing protein OS=Aspergillus avenaceus OX=36643 GN=BDV25DRAFT_49569 PE=3 SV=1	Aspergillus avenaceus	665	2480	69.1	81.4	0.0
+245	TR	A0A1V6R3E4	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Penicillium solitum OX=60172 GN=PENSOL_c018G06219 PE=3 SV=1	Penicillium solitum	666	2480	69.6	81.0	0.0
+246	TR	A0A6A6X763	GMC oxidoreductase OS=Melanomma pulvis-pyrius CBS 109.77 OX=1314802 GN=K505DRAFT_308064 PE=3 SV=1	Melanomma pulvis-pyrius CBS 109.77	665	2480	69.2	80.8	0.0
+247	TR	A0A1J9PEQ4	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Emergomyces pasteurianus Ep9510 OX=1447872 GN=AJ78_04722 PE=3 SV=1	Emergomyces pasteurianus Ep9510	665	2480	69.7	81.5	0.0
+248	TR	A0AAD5HNE3	Alcohol oxidase 1 OS=Fusarium sp. LHS14.1 OX=2898545 GN=NCS52_01129600 PE=3 SV=1	Fusarium sp. LHS14.1	675	2480	70.0	81.9	0.0
+249	TR	A0A370TVS3	Alcohol oxidase OS=Venustampulla echinocandica OX=2656787 GN=BP5553_03949 PE=3 SV=1	Venustampulla echinocandica	666	2480	70.3	82.1	0.0
+250	TR	A0A1L9UG76	Glucose-methanol-choline oxidoreductase N-terminal domain-containing protein OS=Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946) OX=767769 GN=ASPBRDRAFT_197368 PE=3 SV=1	Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946)	667	2480	69.5	81.1	0.0
